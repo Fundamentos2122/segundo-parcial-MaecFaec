@@ -1,4 +1,4 @@
-/*****VARIABLES*****/
+
 :root {
     --color-primary: #001542;
     --color-primary-darker: #01091a;
@@ -16,7 +16,7 @@
     --border-color: #e0e0e0;
 }
 
-/*****COMPOSITION*****/
+
 *,
 *::before,
 *::after {
